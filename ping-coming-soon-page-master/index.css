@@ -19,11 +19,12 @@ width: 600px;
 h1{
     color: #969696;
     font-weight: 600;
-    line-height: 10px;
+    max-height: 50px;
     padding-top: 45px;
 }
 span{
     color: #151F29;
     font-weight: 600;
+    padding-top:20px ;
     line-height: 5px;
 }
