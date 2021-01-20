@@ -34,6 +34,9 @@ span{
 .subscribe-form{
     padding-top: 15px;
 }
+input:invalid{
+    border: 1px solid #FF5263;
+}
 #email{
     border-radius: 30px;
     border: 1px solid #969696;
@@ -49,6 +52,12 @@ span{
     background-color: #4F7DF3;
     color: white;
     font-size: ;
+    transition-duration: 0.05s;
+}
+
+#notify-button{
+    background-color: #C2D3FF;
+    color: white;
 }
 .illustration-dashboard{
     padding-top: 40px;
