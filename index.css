@@ -34,7 +34,7 @@ span{
 .subscribe-form{
     padding-top: 15px;
 }
-input:invalid{
+#email:invalid{
     border: 1px solid #FF5263;
 }
 #email{
